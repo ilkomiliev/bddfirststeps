@@ -15,6 +15,7 @@
   	<serenity.jbehave.version>1.1.0</serenity.jbehave.version>
   </properties>
   
+  <!--  
   <dependencies>
   	<dependency>
         <groupId>net.serenity-bdd</groupId>
@@ -27,5 +28,5 @@
         <version>${serenity.jbehave.version}</version>
     </dependency>
   </dependencies>
-  
+  -->
 </project>
