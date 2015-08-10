@@ -11,7 +11,7 @@
 	</repositories>
 
 	<parent>
-		<groupId>com.abrittus.maven</groupId>
+		<groupId>com.abrittus-kg.maven</groupId>
 		<artifactId>parent-pom</artifactId>
 		<version>1.0.0</version>
 	</parent>

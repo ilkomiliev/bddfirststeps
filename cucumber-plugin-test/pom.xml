@@ -3,6 +3,14 @@
   <groupId>com.abrittus-kg.bdd</groupId>
   <artifactId>cucumber-plugin-test</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+
+	<repositories>
+		<repository>
+			<id>git-ilkomiliev</id>
+			<name>ilkomiliev's Git based repo</name>
+			<url>https://github.com/ilkomiliev/maven-repo/raw/master/</url>
+		</repository>
+	</repositories>
   
   <parent>
   	<groupId>com.abrittus-kg.maven</groupId>
